@@ -1,0 +1,21 @@
+{
+  "name": "github-dark-tritanopia",
+  "displayName": "Github Dark Tritanopia",
+  "description": "Github Dark Tritanopia Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github Dark Tritanopia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Github Dark Tritanopia-color-theme.json"
+      }
+    ]
+  }
+}
