@@ -2,14 +2,18 @@
   "name": "github-dark-tritanopia",
   "displayName": "Github Dark Tritanopia",
   "description": "GitHub Dark Tritanopia color theme for VS Code - A colorblind-friendly dark theme based on GitHub's design system",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "zanaty",
   "engines": {
-    "vscode": "^1.108.1"
+    "vscode": "^1.60.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/moelzanaty3/github-dark-tritanopia"
+  },
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
   },
   "keywords": [
     "theme",
