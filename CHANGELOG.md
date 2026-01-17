@@ -5,7 +5,10 @@ All notable changes to the "GitHub Dark Tritanopia" extension will be documented
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.0.3] - 2024-01-17
+## [0.0.4] - 2026-01-17
+- add icon image
+
+## [0.0.3] - 2026-01-17
 
 ### Added
 - Support for Cursor AI editor
@@ -23,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Minor color consistency issues
 - Enhanced contrast ratios for better readability
 
-## [0.0.1] - 2024-01-16
+## [0.0.1] - 2026-01-16
 
 ### Added
 - Initial release of GitHub Dark Tritanopia theme
