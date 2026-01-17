@@ -198,6 +198,17 @@
 	},
 	"tokenColors": [
 		{
+			"name": "Markdown Text",
+			"scope": [
+				"text.html.markdown",
+				"text.markdown",
+				"text.html.markdown meta.block-level"
+			],
+			"settings": {
+				"foreground": "#f0f6fc"
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -243,6 +254,16 @@
 			"settings": {
 				"foreground": "#a5d6ff",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown List Item Punctuation",
+			"scope": [
+				"text.html.markdown punctuation.definition.list",
+				"text.markdown punctuation.definition.list"
+			],
+			"settings": {
+				"foreground": "#f0f6fc"
 			}
 		},
 		{
@@ -505,7 +526,7 @@
 				"punctuation.definition.list.end"
 			],
 			"settings": {
-				"foreground": "#ffa657"
+				"foreground": "#f0f6fc"
 			}
 		},
 		{
@@ -1070,7 +1091,7 @@
 				"markup.list.unnumbered"
 			],
 			"settings": {
-				"foreground": "#ffa657"
+				"foreground": "#f0f6fc"
 			}
 		},
 		{
