@@ -72,9 +72,10 @@
 		"list.invalidItemForeground": "#f85149",
 		"list.warningForeground": "#d29922",
 		"list.errorForeground": "#f85149",
-		"scrollbarSlider.background": "#00000000",
-		"scrollbarSlider.hoverBackground": "#151b23",
-		"scrollbarSlider.activeBackground": "#656c7633",
+		"scrollbarSlider.background": "#656c7633",
+		"scrollbarSlider.hoverBackground": "#656c7688",
+		"scrollbarSlider.activeBackground": "#3d444d",
+		"scrollbar.shadow": "#00000080",
 		"focusBorder": "#1f6feb",
 		"foreground": "#f0f6fc",
 		"disabledForeground": "#656c7699",
@@ -1332,7 +1333,7 @@
 				"meta.object-literal meta.property-name"
 			],
 			"settings": {
-				"foreground": "#f0f6fc"
+				"foreground": "#79c0ffff"
 			}
 		},
 		{
@@ -1422,6 +1423,14 @@
 			"name": "Variable Other Constant",
 			"scope": [
 				"variable.other.constant",
+			],
+			"settings": {
+				"foreground": "#f0f6fc"
+			}
+		},
+		{
+			"name": "Variable Other readonly",
+			"scope": [
 				"variable.other.readonly"
 			],
 			"settings": {
@@ -1486,7 +1495,7 @@
 				"entity.name.tag.component"
 			],
 			"settings": {
-				"foreground": "#7ee787"
+				"foreground": "#FFA657"
 			}
 		},
 		{
@@ -1986,7 +1995,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f0f6fc"
+				"foreground": "#79c0ffff"
 			}
 		},
 		{
@@ -2219,6 +2228,6 @@
 			"settings": {
 				"foreground": "#ff7b72"
 			}
-		}
+		},
 	]
 }
