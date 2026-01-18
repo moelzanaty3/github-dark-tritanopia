@@ -23,6 +23,10 @@ A premium dark theme built on GitHub's design system with meticulous attention t
 3. Search for **"GitHub Dark Tritanopia"** (by zanaty)
 4. Click **Install**
 
+> [Open VSX Marketplace](https://open-vsx.org/extension/zanaty/github-dark-tritanopia)
+
+> [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=zanaty.github-dark-tritanopia)
+
 ### Via Command Line
 
 ```bash
